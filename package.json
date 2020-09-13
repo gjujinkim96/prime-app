@@ -1,0 +1,9 @@
+{
+	"name": "largest-prime-server",
+	"version": "1.0.0",
+	"desription": "Server to get largest prime of given number.",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"main": "server.js"
+}
